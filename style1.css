@@ -94,3 +94,18 @@ h1 {
 h2 {
   margin-top: 0;
 }
+
+.home__img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.home__blob {
+    width: 250px;
+    height: 250px;
+}
+.home__blob-img {
+    width: 200px;
+    height: 220px;
+    object-fit: cover;
+}
